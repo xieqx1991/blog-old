@@ -95,6 +95,8 @@ npm i -D standard-version
 {
   "scripts": {
     "release": "standard-version && git push --follow-tags",
+    "release:minor": "standard-version -r minor && git push --follow-tags",
+    "release:major": "standard-version -r major && git push --follow-tags"
     // ...
   },
   // ...
@@ -116,9 +118,6 @@ git add .
 
 # 提交commit message
 npm run commit
-
-# 手动推送(不打版本tag)
-git push
 
 # 自动生成CHANGELOG，并打tag，并推送
 npm run release
