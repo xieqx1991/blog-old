@@ -1,11 +1,3 @@
-<!--
- * @Description:
- * @Author: xieqx
- * @Date: 2022-03-04 15:02:09
- * @LastEditors: xieqx
- * @LastEditTime: 2022-03-04 15:22:51
--->
-
 # 生成目录结构树
 
 ```shell
