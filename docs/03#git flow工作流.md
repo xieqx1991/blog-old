@@ -12,7 +12,7 @@
 | `release/xxx`    | 发布分支              |
 | `hotfix/xxx`     | 热修复补丁            |
 
-![github-flow](./images/03-1-GitFlowHotfixBranch.png)
+![github-flow](../images/03-1-GitFlowHotfixBranch.png)
 
 ## 分支工作模式
 
