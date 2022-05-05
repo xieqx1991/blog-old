@@ -1,7 +1,5 @@
 # git 提交约定
 
-## 目录
-
 ## 规范化 commit message
 
 [约定式提交规范](https://www.conventionalcommits.org/zh-hans/v1.0.0/)
