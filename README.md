@@ -1,4 +1,8 @@
-# 目录结构
+# BLOG
+
+## 目录结构
+
+> `treee --dirs-first -F -L 2 -I "node_modules|dist" > TREE.md`
 
 ```tree
 blog/
