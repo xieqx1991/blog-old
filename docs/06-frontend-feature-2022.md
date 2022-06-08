@@ -8,7 +8,7 @@
 
 - [vue-router](https://router.vuejs.org/) 路由管理
 
-- [pinia](https://pinia.vuejs.org/) | [中文文档](https://pinia.web3doc.top/) 状态管理替代 `vuex`，使用起来更简单
+- [pinia](https://pinia.vuejs.org/)、[中文文档](https://pinia.web3doc.top/) 状态管理替代 `vuex`，使用起来更简单
 
 ## UI 组件库
 
@@ -20,7 +20,7 @@
 
 ## feature 功能
 
-- [windicss](https://windicss.org/guide/installation.html) 原子化 css `tailwind` | `unocss`
+- [windicss](https://windicss.org/guide/installation.html) 原子化 css `tailwind`、`unocss`
 
 - [mockjs](https://github.com/nuysoft/Mock/wiki/Getting-Started) 前端数据模拟，可拦截 api 请求
 
