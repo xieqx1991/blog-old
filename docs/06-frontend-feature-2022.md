@@ -20,6 +20,8 @@
 
 ## feature 功能
 
+- [iconify](https://iconify.design/) icon组件化
+
 - [windicss](https://windicss.org/guide/installation.html) 原子化 css `tailwind`、`unocss`
 
 - [mockjs](https://github.com/nuysoft/Mock/wiki/Getting-Started) 前端数据模拟，可拦截 api 请求
